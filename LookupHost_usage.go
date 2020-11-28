@@ -27,12 +27,11 @@ func main() {
 
 	os.Exit(0)
 }
-Host : 216.58.214.132 // ipv4
-Host : 2a00:1450:4017:800::2004 // ipv6 address
 
 /*
 RESULT 
 
-
+Host : 216.58.214.132 // ipv4
+Host : 2a00:1450:4017:800::2004 // ipv6 address
 
 */
